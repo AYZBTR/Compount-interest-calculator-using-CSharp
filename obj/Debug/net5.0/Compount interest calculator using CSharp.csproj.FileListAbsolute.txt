@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.exe
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.deps.json
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.runtimeconfig.json
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.dll
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\ref\Compount interest calculator using CSharp.dll
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\bin\Debug\net5.0\Compount interest calculator using CSharp.pdb
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.dll
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\ref\Compount interest calculator using CSharp.dll
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.pdb
+C:\Users\Acer\Desktop\Compount interest calculator using CSharp\obj\Debug\net5.0\Compount interest calculator using CSharp.genruntimeconfig.cache
